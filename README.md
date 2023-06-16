@@ -1,4 +1,4 @@
-# ejemplo_splash
+# all_for_my_pet
 
 A new Flutter project.
 
